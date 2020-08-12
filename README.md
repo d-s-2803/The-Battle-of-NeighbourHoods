@@ -5,4 +5,4 @@ In this product using numpy and pandas I have discovered different locations in 
 I downloaded the dataset from the official site of BMC site and a few data sets from Google as well.
 
 According the data, we see that 'Begur,Hulimavu and Kamakshipalya' are top 3 neighborhoods to find similar food to whitefield restaurant's veg food !
-Here my model will recommend these neighborhoodsds and top 3 common venues to visit.
+My model will recommend top 3 common venues to visit.
